@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mwePyPI',
-      version='0.0.1',
+      version='0.0.2',
       description='It is a minimal work exemple of a package to be uploaded in PyPI.',
       url='https://github.com/PedroRegisPOAR/mwePyPi',
       author='Pedro Osvaldo Alencar Regis',
